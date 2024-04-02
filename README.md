@@ -7,3 +7,6 @@ To start with this Unreal template, you can start a new repository in the course
 Alternative, you can go the the unreal_template repository (Go to Explore, and under repositories type 'unreal_template' without the quotes) and on the right top side you will see 'Fork'. Click it, as owner select the course (organization) you want, rename your repository, and fork. If you go now to the course, you should see your new repo.
 
 When your repository is ready, you can rewrite your 'README.md' to reflect your project, or if you don't need one you can delete it. 
+
+# Git demo
+Hey there
